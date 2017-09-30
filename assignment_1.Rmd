@@ -1,0 +1,13 @@
+---
+title: "Assignment1"
+author: "YANG Mengwei"
+date: "9/30/2017"
+output: html_document
+---
+
+##Exercice1
+##Exercice2
+##Exercice3
+##Exercice4
+##Exercice5
+##Exercice6
