@@ -189,4 +189,5 @@ ggplot2::ggplot(ver_balanced, ggplot2::aes(x=Frequency)) +
 We can see this histogramme has almost the same structure with the other two histogrammes. 
 
 ##Exercice6
+
 Telecharge the Rstudio and the packages in my computer, it works well. 
